@@ -2,7 +2,7 @@
  eCommerce Website for MERN Project Week
  - [Kimly Quac](https://github.com/kquac00)
  - [Em Bang Long Nguyen](https://github.com/longnguyen2912)
- - Shreyas Sriram
+ - [Shreyas Sriram](https://github.com/codesbyshrey/CodingDojoCommerce)
 
 Coding Dojo MERN Stack Project Week (Full Time Program)
 ## Description:
